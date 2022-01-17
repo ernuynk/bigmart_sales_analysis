@@ -1,5 +1,7 @@
 # Sales Analysis of Bigmart
 
+<img src="bigmart_statement.PNG" alt="a" width="600"/>
+
 Hello everyone!
 
 This is a small practice related to Sales Analysis of Bigmart.
@@ -11,4 +13,4 @@ You'll see three main files in this repository..
 
 Status: Ongoing
 
-<img src="bigmart_statement.PNG" alt="a" width="200"/>
+
