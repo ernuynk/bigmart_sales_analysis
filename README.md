@@ -10,3 +10,5 @@ You'll see three main files in this repository..
 * bigmart_train.csv, train dataset
 
 Status: Ongoing
+
+![My animated logo](assets/bigmart_statement.PNG)
