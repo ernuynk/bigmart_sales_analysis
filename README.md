@@ -1,4 +1,4 @@
-# Sales Analysis of Bigmart
+# Sales Analysis of BigMart
 
 <img src="bigmart_statement.PNG" alt="a" width="600"/>
 
