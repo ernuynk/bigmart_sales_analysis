@@ -11,4 +11,4 @@ You'll see three main files in this repository..
 
 Status: Ongoing
 
-![My animated logo](assets/bigmart_statement.PNG)
+<img src="bigmart_statement.PNG" alt="a" width="200"/>
